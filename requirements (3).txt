@@ -1,0 +1,6 @@
+pulp
+streamlit
+pandas
+altair
+folium
+streamlit-folium
